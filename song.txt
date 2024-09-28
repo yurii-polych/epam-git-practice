@@ -32,4 +32,6 @@ He's comin' to get you
 He's comin' to get you, get
 (Chicka) woo
 
-content for a first commit
+content for the first commit
+
+content for the second commit
